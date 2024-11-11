@@ -1,1 +1,4 @@
 Aditya Walve
+git reset --soft HEAD~3
+git commit
+git reset --soft HEAD~3 -- <file>
